@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="9dp"
+    tools:context=".fragment.HomeChatFragment">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="400dp"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_border_with_shadow"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/img_start_new_conver"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/string_5"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_pen" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/string_7"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="@string/string_2"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="@string/string_8"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:id="@+id/txt_1"
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/edt_bg_2"
+            android:text="@string/string_9.2"
+            android:textSize="18sp"
+            app:drawableEndCompat="@drawable/ic_pen_2" />
+        <TextView
+            android:id="@+id/txt_2"
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edt_bg_2"
+            android:text="@string/string_9"
+            android:textSize="18sp"
+            app:drawableEndCompat="@drawable/ic_pen_2" />
+
+        <TextView
+            android:id="@+id/txt_3"
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edt_bg_2"
+            android:text="@string/string_10"
+            android:textSize="18sp"
+            app:drawableEndCompat="@drawable/ic_pen_2" />
+
+        <TextView
+            android:id="@+id/txt_4"
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edt_bg_2"
+            android:text="@string/string_9.3"
+            android:textSize="18sp"
+            app:drawableEndCompat="@drawable/ic_pen_2" />
+
+    </LinearLayout>
+
+</RelativeLayout>

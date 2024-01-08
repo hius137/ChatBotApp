@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673512569935",
+    "project_id": "chatbotapp-bf8d8",
+    "storage_bucket": "chatbotapp-bf8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673512569935:android:272828e6e8ff33dd433e3a",
+        "android_client_info": {
+          "package_name": "com.minhhieu.chatbotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673512569935-182sknkcfeka3pknp7q6hr1eragkhgvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minhhieu.chatbotapp",
+            "certificate_hash": "6a2d67f17ac5e009741b8591e4e1007a5b6dee51"
+          }
+        },
+        {
+          "client_id": "673512569935-ooji4pv6tp0cn2guboaaomstlu4gv0gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwuszZ_j3HmudtFuxmMJagmazqk_QnBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673512569935-ooji4pv6tp0cn2guboaaomstlu4gv0gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AI Chatbot - Ask AI anything</string>
+    <string name="Wellcome">Wellcome</string>
+    <string name="app_version">App version 1.1</string>
+    <string name="month_a_go">1 month a go</string>
+    <string name="today">Today</string>
+    <string name="nav_drawer_close">Close Navigation Brawer</string>
+    <string name="nav_drawer_open">Open Navigation Brawer</string>
+    <string name="Forget_Your_Password">Forgot Your Password</string>
+    <string name="Verify">Verify</string>
+    <string name="remember_password">Remember Password</string>
+    <string name="Email">Email</string>
+    <string name="Your_email">Your email</string>
+    <string name="Password">Password</string>
+    <string name="Your_Password">Your Password</string>
+    <string name="Login">Login</string>
+    <string name="OR">OR</string>
+    <string name="dont_have_account">Dont have Account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Confirm_Your_Password">Confirm Your Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+
+<!--    chat_bot_activity-->
+    <string name="string_1">Wellcome to Chat GPT</string>
+    <string name="string_2">To get started, choose a chat from the list or initiate a new one</string>
+    <string name="string_3">All Chat</string>
+    <string name="string_4">Tell me what you want... </string>
+    <string name="string_5">TODO</string>
+
+<!--    home_chat_frag-->
+    <string name="string_6">Hello how are you</string>
+    <string name="string_7">Start a new conversation!</string>
+    <string name="string_8">Here some recomendation based on your interest</string>
+    <string name="string_9">How can AI help human being?</string>
+    <string name="string_10">What are some best practices for UI/UX design</string>
+    <string name="string_9.2">What is AI chatbot?</string>
+    <string name="string_9.3">Famous tourist destinations in Vietnam?</string>
+
+<!--    frag_pic-->
+    <string name="string_11">Online Library</string>
+    <string name="string_12">Photo Searching</string>
+    <string name="string_13">My Collection</string>
+    <string name="string_14">My Library</string>
+    <string name="string_15">Top theme of week</string>
+
+<!--    search_pic_frag-->
+    <string name="string_16">Search photos by artist name</string>
+    <string name="string_17">Let GPT chat find works of famous artists for you</string>
+    <string name="string_18">Search photos by art styles</string>
+    <string name="string_19">Let GPT chat find works based on art styles for you</string>
+    <string name="string_20">Search photos related your photos</string>
+    <string name="string_21">Take a picture or let GPT chat enter your library</string>
+    <string name="string_22">Try Now</string>
+
+
+
+</resources>
